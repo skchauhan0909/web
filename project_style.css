@@ -1,0 +1,30 @@
+.navbar-brand{display:inline-block; clip-path:circle(80% at 50% -20%);}
+#div1{padding-left:30px; border:none; background-color:white;}
+#b2{border:none;width:25px;height:35px;background-color:navyblue;}
+#pd{padding-top:40px;padding-left:0px;padding-right:15px;padding-bottom:8px;color:black;font-size:14px;}
+#pd1{padding-top:80px;padding-left:0px;padding-right:15px;padding-bottom:5px;}
+#div2{height:600px;width:1600px;padding-top:40px;padding-left:0px;padding-right:0px;}
+#pd2{display:none;}
+#div3{background:rgb(75,0,130,0.5);padding-top:30px;padding-bottom:30px;}
+#large_text1{font-size:16px;font-family:"Calibri Light";}
+#large_text{font-size:23px;font-family:"Calibri Light";}
+div.hr1 {color:white;background-color:white;height:3px;}
+div.hr2 {color:#404040;background-color:#404040;height:3px;padding:0px;margin:0px;}
+#b3{border-radius:10px;padding:10px 12px;background-color:midnightblue;border:none;}
+#link{color:white;}
+#link:hover{decoration:underline;}
+#slide{height:440px;width:1534px;}
+#div4{padding-top:30px;padding-bottom:30px;}
+#div5{padding-top:30px;padding-bottom:30px;background:rgb(75,0,130,0.5);}
+#div6{padding-top:30px;padding-bottom:30px;background:rgb(255,69,0,0.7);}
+#div7{padding-top:30px;padding-bottom:30px;background:rgb(75,0,130,0.5);height:375px;}
+#div8{padding-top:30px;}
+#mail_link{color:#F8F8FF; font-weight:bold;}
+.button {display: inline-block;border-radius: 4px;background-color: rgb(255,69,0,0.8);border: none;color: #FFFFFF;text-align: center;font-size: 15px;padding: 15px;width: 150px;transition: all 0.5s;cursor: pointer;margin: 5px;}
+.button span {cursor: pointer;display: inline-block;position: relative;transition: 0.5s;}
+.button span:after {content: '\00bb';position: absolute;opacity: 0;top: 0;right: -20px;transition: 0.5s;}
+.button:hover span {padding-right: 25px;}
+.button:hover span:after {opacity: 1;right: 0;}
+.actbtn {display: inline-block;padding: 3px 6px;font-size: 10px;cursor: pointer;text-align: center;text-decoration: none;outline: none;color: #fff;background-color: rgb(255,68,0,0.8);border: none;border-radius: 5px;box-shadow: 0 6px #999;}
+.actbtn:hover {background-color: rgb(255,57,0,0.9)}
+.actbtn:active {background-color: rgb(255,57,0);box-shadow: 0 3px #666;transform: translateY(4px);}
